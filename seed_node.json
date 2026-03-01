@@ -1,5 +1,5 @@
 {
-  "name": "Seed Node",
+  "name": "epistemic_seed",
   "type": "epistemic-protocol",
   "description": "A minimal protocol for federated worldviews and examinable disagreement",
   "license": "CC-BY-SA-4.0",
